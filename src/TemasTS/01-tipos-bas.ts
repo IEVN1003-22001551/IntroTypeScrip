@@ -10,8 +10,5 @@ let activo:boolean;
 let sum:number=num1+num2+num3;
 console.log("la suma es: "+sum)
 
-
-
-
 console.log("prueba")
 
